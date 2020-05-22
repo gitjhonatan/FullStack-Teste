@@ -1,0 +1,14 @@
+.logo {
+    border-radius: 25px;
+    color: #059d42;
+    background-color: #9bd8b3;
+    font-weight: bold;
+    padding: 20px 23px;         
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 992px) {
+    .logo {
+        padding: 5px 17px;         
+    }
+  }

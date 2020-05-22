@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+$menu-item-color: #fff;
+$primary: #059d42;
+$modal-content-width: 500px;
+@import 'bulma';
+
+body{
+    background: #e9ebee;
+    height: 100%;
+}
